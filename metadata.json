@@ -1,0 +1,6 @@
+{
+  "name": "Luxe China Expeditions",
+  "description": "중국 프리미엄 문화·미식·백주·역사 맞춤형 체험 여행 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
