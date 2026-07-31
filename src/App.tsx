@@ -1,3 +1,4 @@
+import ChinaMap from './components/ChinaMap';
 import React, { useState, useMemo } from 'react';
 import { TRAVEL_PROGRAMS } from './data/programs';
 import { TravelProgram, CustomizedQuote } from './types';
@@ -106,6 +107,7 @@ export default function App() {
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <ChinaMap />
         
         {/* Hero Banner */}
         <Hero
